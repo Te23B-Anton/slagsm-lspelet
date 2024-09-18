@@ -1,0 +1,14 @@
+C:\Users\anton.faren\Documents\Prog1\slagsmålspelet\slagsmålspelet\obj\Debug\net8.0\slagsmålspelet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton.faren\Documents\Prog1\slagsmålspelet\slagsmålspelet\obj\Debug\net8.0\slagsmålspelet.AssemblyInfoInputs.cache
+C:\Users\anton.faren\Documents\Prog1\slagsmålspelet\slagsmålspelet\obj\Debug\net8.0\slagsmålspelet.AssemblyInfo.cs
+C:\Users\anton.faren\Documents\Prog1\slagsmålspelet\slagsmålspelet\obj\Debug\net8.0\slagsmålspelet.csproj.CoreCompileInputs.cache
+C:\Users\anton.faren\Documents\Prog1\slagsmålspelet\slagsmålspelet\bin\Debug\net8.0\slagsmålspelet.exe
+C:\Users\anton.faren\Documents\Prog1\slagsmålspelet\slagsmålspelet\bin\Debug\net8.0\slagsmålspelet.deps.json
+C:\Users\anton.faren\Documents\Prog1\slagsmålspelet\slagsmålspelet\bin\Debug\net8.0\slagsmålspelet.runtimeconfig.json
+C:\Users\anton.faren\Documents\Prog1\slagsmålspelet\slagsmålspelet\bin\Debug\net8.0\slagsmålspelet.dll
+C:\Users\anton.faren\Documents\Prog1\slagsmålspelet\slagsmålspelet\bin\Debug\net8.0\slagsmålspelet.pdb
+C:\Users\anton.faren\Documents\Prog1\slagsmålspelet\slagsmålspelet\obj\Debug\net8.0\slagsmålspelet.dll
+C:\Users\anton.faren\Documents\Prog1\slagsmålspelet\slagsmålspelet\obj\Debug\net8.0\refint\slagsmålspelet.dll
+C:\Users\anton.faren\Documents\Prog1\slagsmålspelet\slagsmålspelet\obj\Debug\net8.0\slagsmålspelet.pdb
+C:\Users\anton.faren\Documents\Prog1\slagsmålspelet\slagsmålspelet\obj\Debug\net8.0\slagsmålspelet.genruntimeconfig.cache
+C:\Users\anton.faren\Documents\Prog1\slagsmålspelet\slagsmålspelet\obj\Debug\net8.0\ref\slagsmålspelet.dll
