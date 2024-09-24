@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("slagsmålspelet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54f31e5b63f020c11aefad2b920c2e32c5546558")]
 [assembly: System.Reflection.AssemblyProductAttribute("slagsmålspelet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("slagsmålspelet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

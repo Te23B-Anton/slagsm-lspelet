@@ -12,3 +12,4 @@ C:\Users\anton.faren\Documents\Prog1\slagsmålspelet\slagsmålspelet\obj\Debug\n
 C:\Users\anton.faren\Documents\Prog1\slagsmålspelet\slagsmålspelet\obj\Debug\net8.0\slagsmålspelet.pdb
 C:\Users\anton.faren\Documents\Prog1\slagsmålspelet\slagsmålspelet\obj\Debug\net8.0\slagsmålspelet.genruntimeconfig.cache
 C:\Users\anton.faren\Documents\Prog1\slagsmålspelet\slagsmålspelet\obj\Debug\net8.0\ref\slagsmålspelet.dll
+C:\Users\anton.faren\Documents\Prog1\slagsmålspelet\slagsmålspelet\obj\Debug\net8.0\slagsmålspelet.sourcelink.json
