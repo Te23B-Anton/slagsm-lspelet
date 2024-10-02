@@ -27,16 +27,20 @@ while (true)
    Console.WriteLine("Yes/No");
 
 
-   string acceptering = Console.ReadLine().ToLower();
+   
 
+while(true) {
+   string acceptering = Console.ReadLine().ToLower();
    if (acceptering == "yes")
    {
       Console.WriteLine("Bra att du vill");
+      break;
    }
-   else
-   {
-      Console.WriteLine("Nerver back down never give up , du får ändå");
+  else{
+      Console.WriteLine("Skriv yes pls");
    }
+}
+   
 
    Thread.Sleep(1000);
    Console.Clear();
